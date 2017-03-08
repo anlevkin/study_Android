@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="txt_color">#FFFF1111</color>
+
+    <color name="Белый">#ffffff</color>
+    <color name="Черный">#000000</color>
+    <color name="Красный">#ff0000</color>
+    <color name="Зеленый">#00ff00</color>
+    <color name="Синий">#0000ff</color>
+    <color name="Желтый">#ffff00</color>
+</resources>

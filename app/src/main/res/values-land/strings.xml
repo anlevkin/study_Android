@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Calc</string>
+
+    <string name="my_txt">Альбомная ориентация</string>
+
+    <string name="result">Результат</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="equal">=</string>
+
+    <string name="hintA">Введите число А</string>
+    <string name="hintB">Введите число B</string>
+
+    <string name="about">Об авторе</string>
+    <string name="name">Левкин Антон</string>
+    <string name="email">ur1ch@ya.ru</string>
+    <string name="skillsHeader">Знания и навыки в сфере IT</string>
+
+    <string-array name="skills">
+        <item>Basic.
+        Школоьная программа.</item>
+        <item>Pascal.
+        Школьная программа.</item>
+        <item>Assembler.
+        Написание драйвера для подключения цифрового мультитестера к PC. Курсовая работа.</item>
+        <item>Delphi.
+        Немного самообразования.</item>
+        <item>1C.
+        Немного самообразования.</item>
+        <item>Java.
+        Курс Java 1 на Geekbrains.ru.
+        Курс Java 2 на Geekbrains.ru.
+        Курс Java 3 на Geekbrains.ru.</item>
+        <item>Android.
+        Курс Android 1 на Geekbrains.ru.</item>
+    </string-array>
+
+</resources>
